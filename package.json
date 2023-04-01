@@ -1,0 +1,23 @@
+{
+  "name": "projeto-individual-resilia",
+  "version": "1.0.0",
+  "description": "Este é um simples programa em Node.js que solicita ao usuário que digite \r propriedades de CSS uma de cada vez e armazena essas propriedades em um array. \r Quando o usuário digita \"SAIR\", o programa ordena as propriedades em ordem alfabética e as exibe no console. <br/>",
+  "main": "ordenar-css.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karollayneer/Projeto-individual-resilia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karollayneer/Projeto-individual-resilia/issues"
+  },
+  "homepage": "https://github.com/Karollayneer/Projeto-individual-resilia#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
