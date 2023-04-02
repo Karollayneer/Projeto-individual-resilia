@@ -12,6 +12,6 @@ O programa solicitará que você digite propriedades de CSS uma de cada vez.
 Digite uma propriedade e pressione Enter. Repita este passo para adicionar quantas propriedades desejar. 
 Quando estiver pronto para sair do programa, digite "SAIR" e pressione Enter. <br/>
       
-O programa imprimirá as propriedades ordenadas em ordem alfabética no console.
-![código](https://user-images.githubusercontent.com/99221907/229320124-bc3133eb-7e3a-427d-9b1a-ed77e83cb047.png)
+# O programa imprimirá as propriedades ordenadas em ordem alfabética no console.
+
 
